@@ -1,0 +1,12 @@
+brooklyn.catalog:
+  id: inetBankingV1.inetBankingV1.MySampleInCatalog
+  version: "1.0"
+  itemType: template
+  description: My Sample
+  displayName: MySample
+  iconUrl: classpath:///sample-icon.png
+  libraries:
+  - file:///Path/to/archetype/sample/target/inetBankingV1-0.0.1-SNAPSHOT.jar
+  item:
+    services:
+    - type: inetBankingV1.inetBankingV1.MySample

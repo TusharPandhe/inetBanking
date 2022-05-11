@@ -1,0 +1,7 @@
+brooklyn.catalog:
+    version: "0.0.1-SNAPSHOT"
+    itemType: entity
+    items:
+    - id: inetBankingV1.inetBankingV1.MySample
+      item:
+        type: inetBankingV1.inetBankingV1.MySample

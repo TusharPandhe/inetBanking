@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1652249599600
+Brooklyn-Feature-Name: Sample Apache Brooklyn Project inetBankingV1:inet
+ BankingV1 v0.0.1-SNAPSHOT
+Build-Jdk: 17.0.1
+Built-By: ADMIN
+Bundle-Description: Sample Apache Brooklyn Project for Java entity devel
+ opment, and OSGi bundle generation.
+Bundle-DocURL: http://www.apache.org/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: Sample Apache Brooklyn Project inetBankingV1:inetBankingV1 
+ v0.0.1-SNAPSHOT
+Bundle-SymbolicName: inetBankingV1
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Implementation-Title: Sample Apache Brooklyn Project inetBankingV1:inetB
+ ankingV1 v0.0.1-SNAPSHOT
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Vendor-Id: inetBankingV1
+Implementation-Version: 0.0.1-SNAPSHOT
+Specification-Title: Sample Apache Brooklyn Project inetBankingV1:inetBa
+ nkingV1 v0.0.1-SNAPSHOT
+Specification-Vendor: The Apache Software Foundation
+Specification-Version: 0.0.1-SNAPSHOT
+Tool: Bnd-3.2.0.201605172007
